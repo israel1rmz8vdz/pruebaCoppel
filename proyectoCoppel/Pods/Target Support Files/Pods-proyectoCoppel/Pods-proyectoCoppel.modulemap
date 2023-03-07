@@ -1,0 +1,6 @@
+framework module Pods_proyectoCoppel {
+  umbrella header "Pods-proyectoCoppel-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_proyectoCoppel_proyectoCoppelUITests {
+  umbrella header "Pods-proyectoCoppel-proyectoCoppelUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
